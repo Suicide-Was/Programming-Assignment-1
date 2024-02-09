@@ -15,4 +15,4 @@ List Files in Current Directory (dir): Displays a list of files in the current d
 Change Directory (cd): Allows you to navigate to a different directory.
 Create a New Directory (mkdir): Creates a new directory named "Test" in the C:\ drive.
 Display a Message (echo): Prompts you to enter a message, which is then displayed.
-Display Contents of a File (type): Prompts you to enter the name of a file, and then displays its contents.
+Display Contents of a File (type): Prompts you to enter the name of a file, and then displays its contents. Has permission issues, which is to be expected. Dont want anything to open willy nilly.
